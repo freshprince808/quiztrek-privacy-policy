@@ -1,4 +1,3 @@
-
 # QuizTrek Privacy Policy
 
 Last updated: June 2026
@@ -37,9 +36,12 @@ Future features such as speech recognition, translation tools, or cloud synchron
 
 ## Contact
 
-For privacy questions regarding QuizTrek, please contact the developer through the official app store listing.
+For privacy questions regarding QuizTrek, please contact the developer through the official app store listing or email [area1985@hotmail.com](mailto:area1985@hotmail.com).
 
 ## Changes
 
 This Privacy Policy may be updated from time to time. Updates will be posted on this page.
 
+---
+
+[Terms of Service](./terms.html) · [Support](./support.html) · [Contact](mailto:area1985@hotmail.com)
